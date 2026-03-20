@@ -1,0 +1,3 @@
+# This project uses only Python's standard library.
+# The file is intentionally kept minimal so platforms like Render
+# don't fail when they default to `pip install -r requirements.txt`.
